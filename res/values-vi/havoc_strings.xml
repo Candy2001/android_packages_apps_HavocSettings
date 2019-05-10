@@ -1380,4 +1380,10 @@
     <string name="power_menu_bg_summary">Cho phép bộ lọc tùy chỉnh trong menu nguồn đang hoạt động</string>
     <string name="power_menu_bg_style_title">Tuýt lọc</string>
 	<string name="lockscreen_cover_filter_tinted_blur">Màu dấu nhuộm và mờ</string>
+	
+	<!-- Lockscreen Date styles -->
+    <string name="lockscreen_date_selection_title">Kiểu ngày</string>
+    <string name="lockscreen_date_selection_default">Mặc định</string>
+    <string name="lockscreen_date_selection_str_box">Hộp bán trong suốt</string>
+    <string name="lockscreen_date_selection_str_round">Hộp bán trong suốt (tròn)</string>
 </resources>
