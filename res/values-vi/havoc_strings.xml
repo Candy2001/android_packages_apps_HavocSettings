@@ -1381,10 +1381,17 @@
     <string name="power_menu_bg_style_title">Tuýt lọc</string>
 	<string name="lockscreen_cover_filter_tinted_blur">Màu dấu nhuộm và mờ</string>
 	
-	<!-- Lockscreen Date styles -->
+     <!-- Lockscreen Date styles -->
     <string name="lockscreen_date_selection_title">Kiểu ngày</string>
     <string name="lockscreen_date_selection_default">Mặc định</string>
     <string name="lockscreen_date_selection_str_box">Hộp bán trong suốt</string>
     <string name="lockscreen_date_selection_str_round">Hộp bán trong suốt (tròn)</string>
-	<string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
+    <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
+    <string name="lockscreen_date_selection_str_accent">Tròn đơn giản với màu nhấn</string>
+    <string name="lockscreen_date_selection_str_accent_day">Tròn, đơn giản và có dấu (alt)</string>
+    <string name="lockscreen_date_selection_str_accent_transparent">Tròn, trong suốt và có dấu</string>
+    <string name="lockscreen_date_selection_str_accent_transparent_day">Tròn, trong suốt và có dấu (alt)</string>
+    <string name="lockscreen_date_selection_str_gradient">Gradient</string>
+    <string name="lockscreen_date_selection_str_border_accent">Tối với viền màu</string>
+    <string name="lockscreen_date_selection_str_border_gradient">Tối với viền gradient</string>
 </resources>
