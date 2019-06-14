@@ -1374,4 +1374,10 @@
     <string name="icon_shape_changed_message">Thay đổi hình dạng biểu tượng chỉ sẽ ảnh hưởng tới ứng dụng mới bắt đầu. Vì vậy, bạn nên khởi động lại thiết bị của bạn để hoàn toàn áp dụng thiết đặt này. Nếu một số ứng dụng vẫn còn sử dụng hình dạng cũ sau đó, hãy thử xoá bộ nhớ cache ứng dụng của họ.</string>
     <string name="reboot_dialog_ok">Khởi động lại</string>
     <string name="reboot_dialog_cancel">\@ chuỗi / hủy</string>
+	
+	<!-- Powermenu Background -->
+    <string name="power_menu_bg_title">Bộ lọc nền</string>
+    <string name="power_menu_bg_summary">Cho phép bộ lọc tùy chỉnh trong menu nguồn đang hoạt động</string>
+    <string name="power_menu_bg_style_title">Tuýt lọc</string>
+	<string name="lockscreen_cover_filter_tinted_blur">Màu dấu nhuộm và mờ</string>
 </resources>
