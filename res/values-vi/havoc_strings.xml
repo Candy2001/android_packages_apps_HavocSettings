@@ -1379,7 +1379,6 @@
     <string name="power_menu_bg_title">Bộ lọc nền</string>
     <string name="power_menu_bg_summary">Cho phép bộ lọc tùy chỉnh trong menu nguồn đang hoạt động</string>
     <string name="power_menu_bg_style_title">Tuýt lọc</string>
-    <string name="lockscreen_cover_filter_tinted_blur">Màu dấu nhuộm và mờ</string>
 	
      <!-- Lockscreen Date styles -->
     <string name="lockscreen_date_selection_title">Kiểu ngày</string>
@@ -1396,4 +1395,90 @@
     <string name="lockscreen_date_selection_str_border_gradient">Tối với viền gradient</string>
     <string name="lockscreen_date_selection_str_half_gradient">Gradient(Tròn) với kết thúc trong suốt</string>
     <string name="lockscreen_date_selection_str_half_accent">Màu dấu(Tròn) với kết thúc trong suốt</string>
+	
+	<!-- Lockscreen cover art filter -->
+    <string name="lockscreen_cover_filter_title">Bộ lọc nghệ thuật bìa</string>
+    <string name="lockscreen_cover_filter_none">Không</string>
+    <string name="lockscreen_cover_filter_grayscale">Xám</string>
+    <string name="lockscreen_cover_filter_tint">Dựa vào màu dấu</string>
+    <string name="lockscreen_cover_filter_blur">Làm mờ</string>
+    <string name="lockscreen_cover_filter_grayblur">Xám mờ</string>
+    <string name="lockscreen_cover_filter_tinted_blur">Màu dấu nhuộm và mờ</string>
+	
+	<!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian notch</string>
+
+    <string name="lock_screen_weather_title">Hiển thị thời tiết</string>
+    <string name="lock_screen_weather_summary">Hiển thị thông tin thời tiết hiện tại trên màn hình khóa</string>
+
+    <!-- Charging animation -->
+    <string name="lockscreen_charging_animation_title">Hiệu ứng khi sạc</string>
+    <string name="lockscreen_charging_animation_summary">Hiển thị hình động chớp khi thiết bị đang sạc</string>
+
+    <!-- Charging animation -->
+    <string name="charging_animation_title">Hiệu ứng khi sạc</string>
+    <string name="charging_animation_summary">Hiển thị hình động khi thiết bị được cắm</string>
+
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">Chế độ chơi game</string>
+    <string name="gaming_mode_summary">Tùy chỉnh tùy chọn chế độ chơi trò chơi</string>
+    <string name="gaming_mode_app_picker_title">Tự động bật cho các ứng dụng này</string>
+    <string name="add_gaming_mode_package_title">Thêm ứng dụng cho chế độ Chơi trò chơi</string>
+    <string name="add_gaming_mode_package_summary">Chế độ chơi trò chơi sẽ tự động bật khi các ứng dụng này được mở và tắt khi chúng được đóng</string>
+    <string name="gaming_mode_headsup_title">Chặn thông báo</string>
+    <string name="gaming_mode_headsup_summary">Chặn tất cả các tin nhắn ngoại trừ cuộc gọi</string>
+    <string name="gaming_mode_hardware_keys_title">Khóa phím</string>
+    <string name="gaming_mode_hardware_keys_summary">Tắt các nút phần cứng khi chế độ Chơi trò chơi được bật</string>
+    <string name="gaming_mode_gestures_title">Khóa cử chỉ</string>
+    <string name="gaming_mode_gestures_summary">Tắt điều hướng cử chỉ khi chế độ Chơi trò chơi được bật</string>
+    <string name="gaming_mode_brightness_title">Tắt độ sáng tự động</string>
+    <string name="gaming_mode_brightness_summary">Khóa độ sáng màn hình khi bật chế độ Chơi trò chơi</string>
+    <string name="gaming_mode_ringer_title">Rung chuông trong chế độ chơi trò chơi</string>
+    <string name="gaming_mode_ringer_off_title">Không thay đổi</string>
+    <string name="gaming_mode_ringer_vibrate_title">Rung</string>
+    <string name="gaming_mode_ringer_dnd_title">Không làm phiền</string>
+    <string name="gaming_mode_ringer_silent_title">Im lặng</string>
+    <string name="gaming_mode_notifications_title">Chỉ báo chế độ chơi trò chơi</string>
+    <string name="gaming_mode_notifications_off_title">Tắt</string>
+    <string name="gaming_mode_notifications_notif_title">Hiện thị thông báo</string>
+    <string name="gaming_mode_notifications_toast_title">Hiện thị toasts</string>
+    <string name="gaming_mode_notifications_all_title">Hiện thị toasts and thông báo</string>
+    <string name="gaming_mode_dynamic_title">Chế độ động</string>
+    <string name="gaming_mode_dynamic_summary">Thử tự động phát hiện và thêm ứng dụng chơi trò chơi</string>
+
+    <!-- Gesture Anywhere -->
+    <string name="gesture_anywhere_title">Cử chỉ mọi nơi</string>
+    <string name="gesture_anywhere_summary">Cử chỉ tùy chỉnh để khởi chạy hoạt động ưa thích của bạn</string>
+    <string name="gesture_anywhere_position_title">Vị trí</string>
+    <string name="gesture_anywhere_position_summary">%1$s</string>
+    <string name="gesture_anywhere_position_left">Góc trái</string>
+    <string name="gesture_anywhere_position_right">Góc phải</string>
+    <string name="gesture_anywhere_gestures_title">Cử chỉ</string>
+    <string name="gesture_anywhere_gestures_summary">Add, remove and edit gestures</string>
+    <string name="ga_button_add">Thêm cử chỉ</string>
+    <string name="ga_button_reload">Tải lại</string>
+    <string name="ga_button_discard">Vứt bỏ</string>
+    <string name="ga_button_done">Xong</string>
+    <string name="ga_prompt_gesture_name">Tên</string>
+    <string name="ga_error_missing_name">Bạn phải nhập tên</string>
+    <string name="ga_save_success">Cử chỉ lưu trong %s</string>
+    <string name="ga_rename_action">OK</string>
+    <string name="ga_cancel_action">Hủy bỏ</string>
+    <string name="ga_gestures_loading">Đang tải cử chỉ...</string>
+    <string name="ga_gestures_empty">Không cử chỉ</string>
+    <string name="ga_gestures_activity">Cử chỉ</string>
+    <string name="ga_gestures_edit">Chỉnh sửa</string>
+    <string name="ga_gestures_delete">Xóa</string>
+    <string name="ga_gestures_delete_success">Cử chỉ đã xóa</string>
+    <string name="ga_gestures_rename_title">Đổi tên cử chỉ</string>
+    <string name="ga_gestures_rename_label">Tên cử chỉ</string>
+    <string name="ga_gestures_error_loading">Không thể tải% s. Hãy chắc chắn rằng bạn có sẵn dung lượng.</string>
+    <string name="trigger_category">Vùng kích hoạt</string>
+    <string name="trigger_width_title">Chiều rộng kích hoạt</string>
+    <string name="trigger_width_summary">Điều chỉnh độ rộng của khu vực kích hoạt</string>
+    <string name="trigger_top_title">Vị trí kích hoạt</string>
+    <string name="trigger_top_summary">Phạm vi của chúng tôi</string>
+    <string name="trigger_bottom_title">Điều chỉnh chiều cao của khu vực kích hoạt</string>
+    <string name="trigger_bottom_summary">Điều chỉnh chiều cao của khu vực kích hoạt</string>
 </resources>
